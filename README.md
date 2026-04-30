@@ -25,7 +25,7 @@ An AI-powered application developed during a 6-week internship at Tips Hindawi t
 • Pandas: Data manipulation and tabular display.
 # App Demo
 
-<img width="1600" height="900" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/be550811-f35b-4608-9fcd-31ab132add52" />
 <img width="1600" height="900" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/7dd0eb55-8d85-4265-b054-796159eeb470" />
+<img width="1600" height="900" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/be550811-f35b-4608-9fcd-31ab132add52" />
 
 
