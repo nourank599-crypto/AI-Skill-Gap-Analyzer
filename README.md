@@ -36,6 +36,4 @@ AI-Skill-Gap-Analyzer/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
-└── assets/             # Images and demo video
-    ├── demo.mp4
-    └── screenshot.png
+
