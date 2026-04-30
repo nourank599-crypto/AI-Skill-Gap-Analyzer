@@ -31,6 +31,7 @@ An AI-powered application developed during a 6-week internship at Tips Hindawi t
 # Project Structure
 
 📁 AI-Skill-Gap-Analyzer/
+
 ├── app.py              # Main application logic & UI
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Documentation
