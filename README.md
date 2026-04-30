@@ -30,10 +30,8 @@ An AI-powered application developed during a 6-week internship at Tips Hindawi t
 
 # Project Structure
 
-AI-Skill-Gap-Analyzer/
-├── app.py              # The core Streamlit application containing the RAG logic and UI components.
-├── requirements.txt    # List of necessary libraries (langchain, streamlit, pypdf, etc.).         
-├── assets/             # Contains the project demonstration video and interface screenshots.
-│   ├── demo.mp4
-│   └── screenshot.png
-└── README.md           # Project documentation and overview.
+📁 AI-Skill-Gap-Analyzer/
+├── app.py              # Main application logic & UI
+├── requirements.txt    # Project dependencies
+├── README.md           # Documentation
+└── assets/             # Screenshots and images
