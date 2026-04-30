@@ -32,7 +32,12 @@ An AI-powered application developed during a 6-week internship at Tips Hindawi t
 
 📁 AI-Skill-Gap-Analyzer/
 
-├── app.py              # Main application logic & UI
+## 📁 Project Structure
+```text
+AI-Skill-Gap-Analyzer/
+├── app.py              # Main Streamlit application
 ├── requirements.txt    # Project dependencies
-├── README.md           # Documentation
-└── assets/             # Screenshots and images
+├── README.md           # Project documentation
+└── assets/             # Images and demo video
+    ├── demo.mp4
+    └── screenshot.png
