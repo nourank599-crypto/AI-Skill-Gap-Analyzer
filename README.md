@@ -8,8 +8,7 @@ An AI-powered application developed during a 6-week internship at Tips Hindawi t
 • Actionable Insights: Generates a structured table highlighting missing skills and areas for improvement.
 
 • Web Deployment: Deployed as a functional Web App using Streamlit and ngrok.
-
-#🛠️Tech Stack
+# 🛠️Tech Stack
 
 • Python 3.10+: Core programming language.
 
